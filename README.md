@@ -8,4 +8,4 @@ Após instalar o Visual Studio Code podemos instalar as seguintes extenções. E
 
 - [Code Spell Checker] (https://encurtador.com.br/rvHOW){:target="_blank"} : Essa extensão faz a correção ortográfica no nosso código, funcionando melhor com camelcase (por padrão, corrige apenas o inglês). Essa extensão é bastante útil mas é totalmente opcional;
 
-[Go to this page](http://somelink.com/?target=_blank
+[Go to this page]([Link](https://example.org/ "title" target="_blank")
