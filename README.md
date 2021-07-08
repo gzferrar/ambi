@@ -11,4 +11,7 @@ Após instalar o Visual Studio Code podemos instalar as seguintes extenções. E
 
 
 # TEstE
-blah blah <a href="http://htmlpreview.github.com/?https://github.com/<repo>/<path>/blob/master/<my html file.html" target="_blank">comment</a>**
+
+markdown: kramdown
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
