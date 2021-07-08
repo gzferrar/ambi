@@ -1,7 +1,9 @@
-<h3 align="center">Ambiente de Desenvolvimento</h3>
-<p align="center">
-  Configurando nosso ambiente de desenvolvimento, com algumas ferramentas fundamentais
-</p>
+# Ambiente de Desenvolvimento
+
+## Sobre
+Configurando nosso ambiente de desenvolvimento, com algumas ferramentas fundamentais
 
 ## Preparando o ambiente com o VS CODE
-Deixando o Visual Studio Code pronto
+Após instalar o Visual Studio Code podemos instalar as seguintes extenções. Elas são inseridoas a partir do menu Extenções dentro do própiro VS Code
+
+- Code Spell Checker (encurtador.com.br/rvHOW): Essa extensão faz a correção ortográfica no nosso código, funcionando melhor com camelcase (por padrão, corrige apenas o inglês). Essa extensão é bastante útil mas é totalmente opcional;
