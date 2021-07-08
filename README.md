@@ -10,5 +10,7 @@ Após instalar o Visual Studio Code podemos instalar as seguintes extenções. E
 
 
 
-k
-<a href="http://stackoverflow.com" target="_blank">Go</a>
+# Some markdown
+*click below*
+<a href="example.com" target="_blank">New Tab</a>
+...
