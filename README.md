@@ -7,3 +7,5 @@ Configurando nosso ambiente de desenvolvimento, com algumas ferramentas fundamen
 Após instalar o Visual Studio Code podemos instalar as seguintes extenções. Elas são inseridoas a partir do menu Extenções dentro do própiro VS Code
 
 - Code Spell Checker (https:\\encurtador.com.br/rvHOW): Essa extensão faz a correção ortográfica no nosso código, funcionando melhor com camelcase (por padrão, corrige apenas o inglês). Essa extensão é bastante útil mas é totalmente opcional;
+
+[Introdução à Ciência da Computação com Python I](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
