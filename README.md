@@ -10,8 +10,5 @@ Após instalar o Visual Studio Code podemos instalar as seguintes extenções. E
 
 
 
-# Some markdown
-[go](http://stackoverflow.com){:target="_blank"}.
-Você também deve adicionar rel = "noopener"
-
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+# TEstE
+blah blah <a href="http://htmlpreview.github.com/?https://github.com/<repo>/<path>/blob/master/<my html file.html" target="_blank">comment</a>**
