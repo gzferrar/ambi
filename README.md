@@ -10,5 +10,6 @@ Após instalar o Visual Studio Code podemos instalar as seguintes extenções. E
 
 
 
-<a href="http://example.com" target="_blank"></a>
-<a href="http://example.com">http://example.com</a>
+k
+
+[test](http://test.com){:target="_blank"} renders as test{:target="_blank"}
