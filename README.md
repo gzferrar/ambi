@@ -11,4 +11,7 @@ Após instalar o Visual Studio Code podemos instalar as seguintes extenções. E
 
 
 # Some markdown
-<a href="http://stackoverflow.com" target="_blank">Go</a>
+[go](http://stackoverflow.com){:target="_blank"}.
+Você também deve adicionar rel = "noopener"
+
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
