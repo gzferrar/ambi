@@ -9,7 +9,7 @@ Após instalar o Visual Studio Code podemos instalar as seguintes extenções. C
 - Clique na opção Extensions e na caixa de pesquisa digite o nome ou ID* da extensão que você quer baixar;
 – Selecione na lista a extensão desejada e, na página que abrirá à direita, clique em Install.
 - Ou siga o GIF
--- ![image](https://fliperamadeboteco.com/wp-content/uploads/2021/07/omni.gif)
+- ![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f235cd7c-7840-4e60-8d4e-81643dfe0895/materialicone.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210715%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210715T145109Z&X-Amz-Expires=86400&X-Amz-Signature=de25ba3068305f564e224c163ce2b026e263f6f428cc78478b7ddc2a14d85f6f&X-Amz-SignedHeaders=host)
 
 ### As Extenções 
 - **[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)** Essa extensão faz a correção ortográfica no nosso código (por padrão, corrige apenas o inglês);
