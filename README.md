@@ -21,4 +21,47 @@ Após instalar o Visual Studio Code podemos instalar as seguintes extenções. C
 
 - **[Drácula Oficial](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)** Meu tema preferido do VS Code. Não é por causa que adoro o livro Drácula!🧛🏻‍♂️
 - ***[Fonte JetBrains Mono](https://www.jetbrains.com/lp/mono/)*** Eu uso essa fonte é que ela possui suporte às font ligatures que é uma funcionalidade que permite combinarmos símbolos para formar um novo.
-![image](https://user-images.githubusercontent.com/4933034/124946971-d6d94480-dfe5-11eb-9379-c22552ce6506.png)
+
+
+
+
+
+```
+{
+
+
+ // Configurações da fonte JetBrains Mono
+ "editor.fontFamily": "JetBrains Mono",
+ "editor.fontLigatures": true,
+
+ // Demais configurações
+ "workbench.colorTheme": "Omni",
+ "workbench.iconTheme": "material-icon-theme",
+ "workbench.startupEditor": "newUntitledFile",
+
+ "explorer.compactFolders": false,
+ "editor.renderLineHighlight": "gutter",
+ "workbench.editor.labelFormat": "short",
+ "extensions.ignoreRecommendations": true,
+
+ "javascript.updateImportsOnFileMove.enabled": "never",
+ "typescript.updateImportsOnFileMove.enabled": "never",
+
+ "breadcrumbs.enabled": true,
+ "editor.parameterHints.enabled": false,
+   "editor.formatOnSave": true,
+ "explorer.confirmDragAndDrop": false,
+ "explorer.confirmDelete": false,
+ 
+ "emmet.syntaxProfiles": { "javascript": "jsx" },
+ "emmet.includeLanguages": { "javascript": "javascriptreact" },
+
+ "javascript.suggest.autoImports": true,
+"typescript.suggest.autoImports": true,
+"window.zoomLevel": -2,
+"workbench.editorAssociations": {
+  "*.srm": "default"
+},
+"liveServer.settings.donotVerifyTags": true,
+}
+````
