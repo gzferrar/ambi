@@ -22,7 +22,8 @@ Após instalar o Visual Studio Code podemos instalar as seguintes extenções. C
 - **[Drácula Oficial](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)** Meu tema preferido do VS Code. Não é por causa que adoro o livro Drácula!🧛🏻‍♂️
 - ***[Fonte JetBrains Mono](https://www.jetbrains.com/lp/mono/)*** Eu uso essa fonte é que ela possui suporte às font ligatures que é uma funcionalidade que permite combinarmos símbolos para formar um novo.
 
-
+###Como ajusatr as configurações do VS CODE
+Para finalizar, vamos adicionar algumas configurações no Visual Studio Code. Para isso, basta pressionar `Ctrl + Shift + P` e escolher a opção `Open Settings (JSON)`. Na janela que foi aberta, adicione as configurações abaixo:
 
 
 
